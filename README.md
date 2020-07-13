@@ -10,5 +10,5 @@ Social Networks: [LinkedIn](https://www.linkedin.com/in/jps27cse/)
   
   Language:  [ "C" / "C++" /]
   
-  Frontend:  [ "HTML" / "CSS" / ]
+  Frontend:  [ "HTML" / "CSS" / "Bootstrap" ]
 
