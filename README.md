@@ -1,9 +1,11 @@
 ### Hi there 👋
 
+##My Skill
+
 <!--
 **jps27CSE/jps27CSE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[LinkedIn Connect](https://www.linkedin.com/in/jps27cse/)
+[![LinkedIn Connect](https://www.linkedin.com/in/jps27cse/)]
 
 Here are some ideas to get you started:
 
