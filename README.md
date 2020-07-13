@@ -3,6 +3,8 @@
 <!--
 **jps27CSE/jps27CSE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+https://www.linkedin.com/in/jps27cse/
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
