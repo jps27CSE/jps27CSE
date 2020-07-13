@@ -2,7 +2,7 @@
 >Studying Computer Science and Engineering At Bangladesh University of Business and Technology
 
 
-[LinkedIn](https://www.linkedin.com/in/jps27cse/)
+Social Networks: [LinkedIn](https://www.linkedin.com/in/jps27cse/)
 
 ### My Learning Skills 
 
