@@ -9,10 +9,14 @@ Social Networks: [LinkedIn](https://www.linkedin.com/in/jps27cse/)
 
 ![C++](https://media.geeksforgeeks.org/wp-content/cdn-uploads/titleShadow-1024x341.png)
 
-### My Learning Skills 
+
+##Skills
+
+  :arrow_forward:Language:  [ "C"/]
 
 
-  
+##Learning 
+
   :arrow_forward:Language:  [ "C" / "C++" /]
   
   :arrow_forward:Frontend:  [ "HTML" / "CSS" / "Bootstrap" ]
