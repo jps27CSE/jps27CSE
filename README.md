@@ -2,10 +2,8 @@
 >Studying Computer Science and Engineering At Bangladesh University of Business and Technology
 
 
-Social Networks: [LinkedIn](https://www.linkedin.com/in/jps27cse/)
-<p>
-<a href="https://dev.to/jps27cse"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
-</p>
+Social Networks:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/jps27cse?fbclid=IwAR3wAzTreOvOka2CAGm3puMM-0b39UEphuophAUg3MfYqpjHOhxj-SkLyV4)  
 
 ![C++](https://media.geeksforgeeks.org/wp-content/cdn-uploads/titleShadow-1024x341.png)
 
