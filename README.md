@@ -25,6 +25,6 @@ Social Networks:
   :arrow_forward:Frontend:  [ "HTML" / "CSS" / "Bootstrap" ]
   
   
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=jps27CSE&show_icons=true)![Profile views](https://gpvc.arturio.dev/jps27CSE)  
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=jps27CSE&show_icons=true)
   
 
