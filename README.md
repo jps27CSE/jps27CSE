@@ -17,6 +17,8 @@ Social Networks:
 
 ##Learning 
 
-  :arrow_forward:Language:  ["C++" / Python]
+  :arrow_forward:Language:  ["C++" / "Python"]
   
   :arrow_forward:Frontend:  [ "HTML" / "CSS" / "Bootstrap" ]
+  
+  :arrow_forward:Framework:  [ "Tkinter"]
