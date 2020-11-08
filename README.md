@@ -12,12 +12,12 @@ Social Networks:
 
 ##Skills
 
-  :arrow_forward:Language:  [ "C"/]
+  :arrow_forward:Language:  [ "C"/ "C++"]
 
 
 ##Learning 
 
-  :arrow_forward:Language:  ["C++" / "Python" / "JavaScript"]
+  :arrow_forward:Language:  [ "Python" / "JavaScript"]
   
   :arrow_forward:Frontend:  [ "HTML" / "CSS" / "Bootstrap" ]
   
