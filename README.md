@@ -24,3 +24,5 @@ Social Networks:
   
   ### JavaScript Projects
 - [Random Password Generator](https://github.com/jps27CSE/Random-Password-Generator) :arrow_forward: [Live Demo](https://jps27cse.github.io/Random-Password-Generator/)
+
+- [Time Clock Update-Colour](https://github.com/jps27CSE/Time-Clock-Update-Colour) :arrow_forward: [Live Demo](https://jps27cse.github.io/Time-Clock-Update-Colour/)
