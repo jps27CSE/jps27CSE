@@ -20,3 +20,7 @@ Social Networks:
   :arrow_forward:Frontend:  [ "HTML" / "CSS" / "Bootstrap" ]
   
   :arrow_forward:Package Manager:  [ "npm"]
+  
+  
+  ### JavaScript Projects
+- [Random Password Generator](https://github.com/jps27CSE/Random-Password-Generator) :arrow_forward: [Live Demo](https://jps27cse.github.io/Random-Password-Generator/)
