@@ -26,3 +26,5 @@ Social Networks:
 - [Random Password Generator](https://github.com/jps27CSE/Random-Password-Generator) :arrow_forward: [Live Demo](https://jps27cse.github.io/Random-Password-Generator/)
 
 - [Time Clock Update-Colour](https://github.com/jps27CSE/Time-Clock-Update-Colour) :arrow_forward: [Live Demo](https://jps27cse.github.io/Time-Clock-Update-Colour/)
+
+- [New Year Countdown](https://github.com/jps27CSE/New-Year-Countdown) :arrow_forward: [Live Demo](https://jps27cse.github.io/New-Year-Countdown/)
