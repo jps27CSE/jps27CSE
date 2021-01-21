@@ -8,16 +8,14 @@ Social Networks:
 
 ##Skills
 
-  :arrow_forward:Language:  [ "C"/ "C++"]
+  :arrow_forward:Language:  [ "C"/ "C++" / "JavaScript"]
   
   :arrow_forward:Framework:  [ "Tkinter"]
 
 
 ##Learning 
-
-  :arrow_forward:Language:  [ "Python" / "JavaScript"]
-  
-  :arrow_forward:Frontend:  [ "HTML" / "CSS" / "Bootstrap" ]
+ 
+  :arrow_forward:Frontend:  [ "React"]
   
   :arrow_forward:Package Manager:  [ "npm"]
   
