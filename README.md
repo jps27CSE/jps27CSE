@@ -32,3 +32,6 @@ Social Networks:
 - [Quote Generator](https://github.com/jps27CSE/Quote-Generator) :arrow_forward: [Live Demo](https://jps27cse.github.io/Quote-Generator/)
 
 - [To Do App](https://github.com/jps27CSE/To-Do-App) :arrow_forward: [Live Demo](https://jps27cse.github.io/To-Do-App/)
+
+  ### React Projects
+  - [Basic Todo App](https://github.com/jps27CSE/Basic-Todo-React) :arrow_forward: [Live Demo](https://basic-todo-react-01.netlify.app/)
