@@ -35,3 +35,5 @@ Social Networks:
 
 ### React Projects
 - [Basic Todo App](https://github.com/jps27CSE/Basic-Todo-React) :arrow_forward: [Live Demo](https://basic-todo-react-01.netlify.app/)
+- [Weather App](https://github.com/jps27CSE/Weather-React-App) :arrow_forward: [Live Demo](https://weather-app-jps.netlify.app/)
+
