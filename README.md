@@ -33,6 +33,8 @@ Social Networks:
 
 - [To Do App](https://github.com/jps27CSE/To-Do-App) :arrow_forward: [Live Demo](https://jps27cse.github.io/To-Do-App/)
 
+- [Covid-19-Live-Status](https://github.com/jps27CSE/Covid-19-Live-Status) :arrow_forward: [Live Demo](https://jps27cse.github.io/Covid-19-Live-Status/)
+
 ### React Projects
 - [Basic Todo App](https://github.com/jps27CSE/Basic-Todo-React) :arrow_forward: [Live Demo](https://basic-todo-react-01.netlify.app/)
 - [Weather App](https://github.com/jps27CSE/Weather-React-App) :arrow_forward: [Live Demo](https://weather-app-jps.netlify.app/)
