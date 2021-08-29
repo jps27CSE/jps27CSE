@@ -28,7 +28,7 @@ Social Networks:
   
   :arrow_forward:Package Manager:  [ "npm"]
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jps27CSE&show_icons=true)  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jps27CSE&show_icons=true)![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jps27CSE)    
   
   
   ### JavaScript Projects
@@ -55,4 +55,4 @@ Social Networks:
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jps27CSE)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jps27CSE)  
+
