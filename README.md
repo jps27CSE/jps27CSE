@@ -19,7 +19,7 @@ Social Networks:
 
   :arrow_forward:Language:  [ "C"/ "C++" / "JavaScript"]
   
-  :arrow_forward:Framework:  [ "Tkinter"]
+<!--   :arrow_forward:Framework:  [ "Tkinter"] -->
 
 
 ##Learning 
