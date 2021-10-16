@@ -18,7 +18,9 @@ Social Networks:
 ##Skills
 
   :arrow_forward:Language:  [ "C"/ "C++" / "JavaScript"]
+  
   :arrow_forward:Frontend:  [ "React"]
+  
   :arrow_forward:Package Manager:  [ "npm" / "yarn"]
   
 <!--   :arrow_forward:Framework:  [ "Tkinter"] -->
