@@ -18,15 +18,15 @@ Social Networks:
 ##Skills
 
   :arrow_forward:Language:  [ "C"/ "C++" / "JavaScript"]
+  :arrow_forward:Frontend:  [ "React"]
+  :arrow_forward:Package Manager:  [ "npm" / "yarn"]
   
 <!--   :arrow_forward:Framework:  [ "Tkinter"] -->
 
 
 ##Learning 
  
-  :arrow_forward:Frontend:  [ "React"]
-  
-  :arrow_forward:Package Manager:  [ "npm"]
+  :arrow_forward:Backend:  [ "Node-JS"]
   
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jps27CSE&show_icons=true)![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jps27CSE)    
   
