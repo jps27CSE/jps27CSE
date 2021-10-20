@@ -30,6 +30,10 @@ Social Networks:
  
   :arrow_forward:Backend:  [ "Node-JS"]
   
+  :arrow_forward:Database:  [ "MySQL" / "MongoDB"]
+  
+  :arrow_forward:Dbms-ORM:  [ "Mongoose"]
+  
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jps27CSE&show_icons=true)![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jps27CSE)    
   
   
