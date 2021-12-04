@@ -58,6 +58,9 @@ Social Networks:
 - [Blockbuster Movie App](https://github.com/jps27CSE/Movie-Database-React-App) :arrow_forward: [Live Demo](https://blockbuster-movie-app.netlify.app/)
 - [Contact Search App](https://github.com/jps27CSE/Contact_Search_App-React) :arrow_forward: [Live Demo](https://jps27cse.github.io/Contact_Search_App-React/)
 
+### MERN Projects
+- [NoteHut](https://github.com/jps27CSE/NoteHut_MERN)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jps27CSE)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jps27CSE)  
