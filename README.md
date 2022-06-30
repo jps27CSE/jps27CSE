@@ -57,6 +57,7 @@ Social Networks:
 - [Weather App](https://github.com/jps27CSE/Weather-React-App) :arrow_forward: [Live Demo](https://weather-app-jps.netlify.app/)
 - [Blockbuster Movie App](https://github.com/jps27CSE/Movie-Database-React-App) :arrow_forward: [Live Demo](https://blockbuster-movie-app.netlify.app/)
 - [Contact Search App](https://github.com/jps27CSE/Contact_Search_App-React) :arrow_forward: [Live Demo](https://jps27cse.github.io/Contact_Search_App-React/)
+- [Feedback App](https://github.com/jps27CSE/Feedback_App_React) :arrow_forward: [Live Demo](https://feedback-ui-app-react-js.netlify.app/)
 
 ### MERN Projects
 - [NoteHut](https://github.com/jps27CSE/NoteHut_MERN)
