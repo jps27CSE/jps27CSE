@@ -59,6 +59,7 @@ Social Networks:
 - [Contact Search App](https://github.com/jps27CSE/Contact_Search_App-React) :arrow_forward: [Live Demo](https://jps27cse.github.io/Contact_Search_App-React/)
 - [Feedback App](https://github.com/jps27CSE/Feedback_App_React) :arrow_forward: [Live Demo](https://feedback-ui-app-react-js.netlify.app/)
 - [Github Finder App](https://github.com/jps27CSE/Github_Finder_React) :arrow_forward: [Live Demo](https://react-github-profile-finder.netlify.app/)
+- [Magic Match Game](https://github.com/jps27CSE/Magic-Memory-Game-React) :arrow_forward: [Live Demo](https://magic-match-react-jps.netlify.app/)
 
 ### MERN Projects
 - [NoteHut](https://github.com/jps27CSE/NoteHut_MERN)
