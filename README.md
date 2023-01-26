@@ -68,6 +68,6 @@ Social Networks:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jps27CSE)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jps27CSE)  
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=jps27cse&theme=react)  
 
 
