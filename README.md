@@ -35,7 +35,7 @@ Social Networks:
   
   :arrow_forward:Dbms-ORM:  [ "Mongoose"]
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jps27CSE&show_icons=true)![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jps27CSE)    
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jps27CSE&show_icons=true&theme=react)![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jps27CSE&theme=react)    
   
   
   ### JavaScript Projects
@@ -66,8 +66,9 @@ Social Networks:
 ### MERN Projects
 - [NoteHut](https://github.com/jps27CSE/NoteHut_MERN)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jps27CSE)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jps27CSE&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=jps27cse&theme=react)  
+
 
 
