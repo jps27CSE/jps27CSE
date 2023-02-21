@@ -37,6 +37,9 @@ Social Networks:
   
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jps27CSE&show_icons=true&theme=react)![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jps27CSE&theme=react)    
   
+   ![Codewars Rank]( https://www.codewars.com/users/jps27CSE/badges/large)
+ 
+  
   
   ### JavaScript Projects
 - [Random Password Generator](https://github.com/jps27CSE/Random-Password-Generator) :arrow_forward: [Live Demo](https://jps27cse.github.io/Random-Password-Generator/)
