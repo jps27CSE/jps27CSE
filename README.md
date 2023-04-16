@@ -65,6 +65,7 @@ Social Networks:
 - [Github Finder App](https://github.com/jps27CSE/Github_Finder_React) :arrow_forward: [Live Demo](https://react-github-profile-finder.netlify.app/)
 - [Magic Match Game](https://github.com/jps27CSE/Magic-Memory-Game-React) :arrow_forward: [Live Demo](https://magic-match-react-jps.netlify.app/)
 - [Finance Tracker](https://github.com/jps27CSE/Finance_Tracker_React) :arrow_forward: [Live Demo](https://financetracker-react.netlify.app/)
+- [Project Management](https://github.com/jps27CSE/Project-Management_React_Firebase) :arrow_forward: [Live Demo](https://project-management-react-23.netlify.app/)
 
 ### MERN Projects
 - [NoteHut](https://github.com/jps27CSE/NoteHut_MERN)
