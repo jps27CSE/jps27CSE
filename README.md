@@ -69,10 +69,13 @@ Social Networks:
 
 ### MERN Projects
 - [NoteHut](https://github.com/jps27CSE/NoteHut_MERN)
+### FullStack Projects
+- [Ecommerce React Strapi Stripe](https://github.com/jps27CSE/Ecommerce_React_Strapi_Stripe)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jps27CSE&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=jps27cse&theme=react)  
+
 
 
 
