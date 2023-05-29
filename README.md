@@ -1,5 +1,8 @@
 # Hi! I am Jack :sunglasses:
 >Studying Computer Science and Engineering At Bangladesh University of Business and Technology 
+>
+>I’m a MERN stack developer who loves to code in JavaScript and explore new technologies. I’m passionate about building scalable web applications and have experience working with React.js, Node.js, Express.js, and MongoDB. I’m always looking for new challenges and opportunities to learn and grow as a developer.
+>
 ![1662117325878](https://user-images.githubusercontent.com/58485174/190687463-936bd7db-6263-445d-bb01-0a388b20fb82.jpg)
 <!-- 
 Social Networks:
