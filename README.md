@@ -73,6 +73,7 @@ Social Networks:
 
 ### MERN Projects
 - [NoteHut](https://github.com/jps27CSE/NoteHut_MERN)
+- [Social App](https://github.com/jps27CSE/Social_App_MERN)
 ### FullStack Projects
 - [Ecommerce React Strapi Stripe](https://github.com/jps27CSE/Ecommerce_React_Strapi_Stripe)
 
