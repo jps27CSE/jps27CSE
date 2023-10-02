@@ -81,6 +81,8 @@ Social Networks:
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=jps27cse&theme=react)  
 
+[![An image of @jps27cse's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jps27cse)](https://holopin.io/@jps27cse)
+
 
 
 
