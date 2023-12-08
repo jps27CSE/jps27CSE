@@ -81,8 +81,6 @@ Social Networks:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jps27CSE&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=jps27cse&theme=react)  
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jps27cse" alt="jps27cse" /></a> </p>
 
 [![An image of @jps27cse's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jps27cse)](https://holopin.io/@jps27cse)
