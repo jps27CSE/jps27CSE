@@ -62,20 +62,17 @@ Social Networks:
 - [Covid-19-Live-Status](https://github.com/jps27CSE/Covid-19-Live-Status) :arrow_forward: [Live Demo](https://jps27cse.github.io/Covid-19-Live-Status/)
 
 ### React Projects
-- [Basic Todo App](https://github.com/jps27CSE/Basic-Todo-React) :arrow_forward: [Live Demo](https://basic-todo-react-01.netlify.app/)
 - [Weather App](https://github.com/jps27CSE/Weather-React-App) :arrow_forward: [Live Demo](https://weather-app-jps.netlify.app/)
 - [Blockbuster Movie App](https://github.com/jps27CSE/Movie-Database-React-App) :arrow_forward: [Live Demo](https://blockbuster-movie-app.netlify.app/)
-- [Contact Search App](https://github.com/jps27CSE/Contact_Search_App-React) :arrow_forward: [Live Demo](https://jps27cse.github.io/Contact_Search_App-React/)
-- [Feedback App](https://github.com/jps27CSE/Feedback_App_React) :arrow_forward: [Live Demo](https://feedback-ui-app-react-js.netlify.app/)
 - [Github Finder App](https://github.com/jps27CSE/Github_Finder_React) :arrow_forward: [Live Demo](https://react-github-profile-finder.netlify.app/)
 - [Magic Match Game](https://github.com/jps27CSE/Magic-Memory-Game-React) :arrow_forward: [Live Demo](https://magic-match-react-jps.netlify.app/)
-- [Finance Tracker](https://github.com/jps27CSE/Finance_Tracker_React) :arrow_forward: [Live Demo](https://financetracker-react.netlify.app/)
 - [Project Management](https://github.com/jps27CSE/Project-Management_React_Firebase) :arrow_forward: [Live Demo](https://project-management-react-23.netlify.app/)
 - [YouTube Clone](https://github.com/jps27CSE/Youtube_Clone_React) :arrow_forward: [Live Demo](https://youtubeclonejps.netlify.app/)
 
 ### MERN Projects
 - [NoteHut](https://github.com/jps27CSE/NoteHut_MERN)
 - [Social App](https://github.com/jps27CSE/Social_App_MERN)
+- [Job Bid Pro](https://github.com/jps27CSE/Social_App_MERN):arrow_forward: [Live Demo](https://jobbidpro.web.app/):arrow_forward: [Client](https://github.com/jps27CSE/Job_Bid_Pro_Client):arrow_forward: [Server](https://github.com/jps27CSE/Job_Bid_Pro_Server)
 ### FullStack Projects
 - [Ecommerce React Strapi Stripe](https://github.com/jps27CSE/Ecommerce_React_Strapi_Stripe)
 
