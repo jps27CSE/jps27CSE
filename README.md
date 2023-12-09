@@ -64,7 +64,7 @@ Social Networks:
 ### MERN Projects
 - [NoteHut](https://github.com/jps27CSE/NoteHut_MERN)
 - [Social App](https://github.com/jps27CSE/Social_App_MERN)
-- [Job Bid Pro](https://github.com/jps27CSE/Social_App_MERN):arrow_forward: [Live Demo](https://jobbidpro.web.app/):arrow_forward: [Client](https://github.com/jps27CSE/Job_Bid_Pro_Client):arrow_forward: [Server](https://github.com/jps27CSE/Job_Bid_Pro_Server)
+- [Job Bid Pro](https://github.com/jps27CSE/Job_Bid_Pro_Client):arrow_forward: [Live Demo](https://jobbidpro.web.app/):arrow_forward: [Client](https://github.com/jps27CSE/Job_Bid_Pro_Client):arrow_forward: [Server](https://github.com/jps27CSE/Job_Bid_Pro_Server)
 ### FullStack Projects
 - [Ecommerce React Strapi Stripe](https://github.com/jps27CSE/Ecommerce_React_Strapi_Stripe)
 
