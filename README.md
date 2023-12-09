@@ -47,19 +47,11 @@ Social Networks:
   
   
   ### JavaScript Projects
-- [Random Password Generator](https://github.com/jps27CSE/Random-Password-Generator) :arrow_forward: [Live Demo](https://jps27cse.github.io/Random-Password-Generator/)
-
 - [Time Clock Update-Colour](https://github.com/jps27CSE/Time-Clock-Update-Colour) :arrow_forward: [Live Demo](https://jps27cse.github.io/Time-Clock-Update-Colour/)
 
 - [New Year Countdown](https://github.com/jps27CSE/New-Year-Countdown) :arrow_forward: [Live Demo](https://jps27cse.github.io/New-Year-Countdown/)
 
 - [Task Manager](https://github.com/jps27CSE/Task-Manager) :arrow_forward: [Live Demo](https://jps27cse.github.io/Task-Manager/)
-
-- [Quote Generator](https://github.com/jps27CSE/Quote-Generator) :arrow_forward: [Live Demo](https://jps27cse.github.io/Quote-Generator/)
-
-- [To Do App](https://github.com/jps27CSE/To-Do-App) :arrow_forward: [Live Demo](https://jps27cse.github.io/To-Do-App/)
-
-- [Covid-19-Live-Status](https://github.com/jps27CSE/Covid-19-Live-Status) :arrow_forward: [Live Demo](https://jps27cse.github.io/Covid-19-Live-Status/)
 
 ### React Projects
 - [Weather App](https://github.com/jps27CSE/Weather-React-App) :arrow_forward: [Live Demo](https://weather-app-jps.netlify.app/)
