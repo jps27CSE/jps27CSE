@@ -20,17 +20,19 @@ Social Networks:
 
 ##Skills
 
-▶️Language: ["JavaScript"/ "C"/ "C++"/"Java"]
+▶️Language: ["JavaScript"/"TypeScript"/"C"/ "C++"/"Java"]
 
-▶️Frontend: [ "React"/"Tailwind CSS"/"Bootstrap"]
+▶️Frontend: [ "React"/"Next JS"]
+
+▶️UI: ["Tailwind CSS"/"Bootstrap"/"MUI"]
 
 ▶️Backend: [ "Node-JS"/ "Express JS"]
 
-▶️Database: ["MongoDB"]
+▶️Database: ["MongoDB"/"Firestore"/"Redis"]
 
 ▶️Package Manager: [ "npm" / "yarn"]
 
-▶️Dbms-ORM: [ "Mongoose"]
+▶️Dbms-ORM: [ "Mongoose"/"Prisma"]
 
 ▶️Tools and Software: [ "Postman"/"Chrome Dev Tool"/"MS Excel"/"MS Word"/"MS PowerPoint"]
 
@@ -38,7 +40,7 @@ Social Networks:
 
 ##Learning
 
-▶️[ "Next-JS"/"Type-Script"]
+▶️[ "Docker"/"Redis"]
   
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jps27CSE&show_icons=true&theme=react)![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jps27CSE&theme=react)    
   
