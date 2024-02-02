@@ -16,7 +16,7 @@ Social Networks:
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,tailwind,express,mongodb,firebase,git,c,cpp,java,figma,nodejs,postman,vercel,netlify,arduino,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,tailwind,express,mongodb,firebase,git,c,cpp,java,figma,nodejs,typescript,postman,prisma,redis,nextjs,vercel,netlify,arduino,linux)](https://skillicons.dev)
 
 ##Skills
 
