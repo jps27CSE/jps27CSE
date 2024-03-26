@@ -40,7 +40,7 @@ Social Networks:
 
 ##Learning
 
-▶️[ "Docker"/"Redis"]
+▶️["Angular JS"]
   
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jps27CSE&show_icons=true&theme=react)![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jps27CSE&theme=react)    
   
