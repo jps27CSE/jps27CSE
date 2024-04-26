@@ -1,5 +1,5 @@
 # Hi! I am Jack :sunglasses:
-I'm a MERN Stack Developer who enjoys learning new technologies and writing JavaScript code. With expertise in React.js, Node.js, Express.js, and MongoDB, I'm passionate about developing scalable web applications. I'm constantly searching for fresh challenges and chances to progress as a developer.
+Software Engineer (SWE) specializing in Frontend development, proficient in JavaScript, React, Next.js, Angular, and a variety of frontend tools. Also skilled in MERN Stack. Committed to crafting clean, efficient code and driving innovation in every project. Passionate about collaborating with dynamic teams to create impactful solutions and continuously advance in the field of frontend development.
 >
 ![1662117325878](https://user-images.githubusercontent.com/58485174/190687463-936bd7db-6263-445d-bb01-0a388b20fb82.jpg)
 <!-- 
