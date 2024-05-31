@@ -1,58 +1,78 @@
 # Hi! I am Jack :sunglasses:
-Software Engineer (SWE) specializing in Frontend development, proficient in JavaScript, React, Next.js, Angular, and a variety of frontend tools. Also skilled in MERN Stack. Committed to crafting clean, efficient code and driving innovation in every project. Passionate about collaborating with dynamic teams to create impactful solutions and continuously advance in the field of frontend development.
->
-![1662117325878](https://user-images.githubusercontent.com/58485174/190687463-936bd7db-6263-445d-bb01-0a388b20fb82.jpg)
-<!-- 
-Social Networks:
+**Software Engineer (SWE) specializing in Frontend development**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jps27CSE)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/jps27cse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jps27CSE/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13438724/jack-pritom-soren)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://jps27cse.github.io/Portfolio-/?fbclid=IwAR34EqaxmzyzzrbQUr7NlLIft8ibyXi6pE2oZRLBqtnm7sw-Q28oJPW5P20)   -->
+![Jack's Profile Picture](https://user-images.githubusercontent.com/58485174/190687463-936bd7db-6263-445d-bb01-0a388b20fb82.jpg)
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## About Me
+I am proficient in JavaScript, React, Next.js, Angular, and a variety of frontend tools. Also skilled in the MERN Stack. Committed to crafting clean, efficient code and driving innovation in every project. Passionate about collaborating with dynamic teams to create impactful solutions and continuously advancing in the field of frontend development.
+
+---
+
+## Connect with Me
 <p align="left">
-<a href="https://dev.to/jps27cse" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jps27cse" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jps27cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jps27cse" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13438724" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13438724" height="30" width="40" /></a>
+  <a href="https://github.com/jps27CSE" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40"/></a>
+  <a href="https://dev.to/jps27cse" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Dev" height="40"/></a>
+  <a href="https://www.linkedin.com/in/jps27CSE/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40"/></a>
+  <a href="https://stackoverflow.com/users/13438724/jack-pritom-soren" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Stack Overflow" height="40"/></a>
+  <a href="https://jps27cse.github.io/Portfolio-/?fbclid=IwAR34EqaxmzyzzrbQUr7NlLIft8ibyXi6pE2oZRLBqtnm7sw-Q28oJPW5P20" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="Website" height="40"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
+## Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,tailwind,express,mongodb,firebase,git,c,cpp,java,figma,nodejs,typescript,postman,prisma,redis,nextjs,vercel,netlify,arduino,linux)](https://skillicons.dev)
 
-##Skills
+---
 
-▶️Language: ["JavaScript"/"TypeScript"/"C"/ "C++"/"Java"]
+## Skills
 
-▶️Frontend: [ "React"/"Next JS"]
+**Languages**: JavaScript, TypeScript, C, C++, Java
 
-▶️UI: ["Tailwind CSS"/"Bootstrap"/"MUI"]
+**Frontend**: React, Next.js
 
-▶️Backend: [ "Node-JS"/ "Express JS"]
+**UI**: Tailwind CSS, Bootstrap, MUI
 
-▶️Database: ["MongoDB"/"Firestore"/"Redis"]
+**Backend**: Node.js, Express.js
 
-▶️Package Manager: [ "npm" / "yarn"]
+**Database**: MongoDB, Firestore, Redis
 
-▶️Dbms-ORM: [ "Mongoose"/"Prisma"]
+**Package Manager**: npm, yarn
 
-▶️Tools and Software: [ "Postman"/"Chrome Dev Tool"/"MS Excel"/"MS Word"/"MS PowerPoint"]
+**DBMS/ORM**: Mongoose, Prisma
 
-▶️Version Control, DevOps & OS: [ "Git & GitHub"/"Windows"/"Linux"]
+**Tools and Software**: Postman, Chrome Dev Tool, MS Excel, MS Word, MS PowerPoint
 
-##Learning
+**Version Control, DevOps & OS**: Git & GitHub, Windows, Linux
 
-▶️["Angular JS"]
-  
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jps27CSE&show_icons=true&theme=react)![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jps27CSE&theme=react)    
-  
-   ![Codewars Rank]( https://www.codewars.com/users/jps27CSE/badges/large)
- 
-  
-  
-  ### JavaScript Projects
+---
+
+## Currently Learning
+- AngularJS
+
+---
+
+## GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jps27CSE&show_icons=true&theme=react)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jps27CSE&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jps27CSE&theme=react)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jps27cse&theme=react-dark)
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jps27cse&theme=dracula)
+![Trophy](https://github-profile-trophy.vercel.app/?username=jps27cse)
+
+---
+
+## Badges
+[![An image of @jps27cse's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jps27cse)](https://holopin.io/@jps27cse)
+
+---
+
+## Projects
+
+### JavaScript Projects
 - [Time Clock Update-Colour](https://github.com/jps27CSE/Time-Clock-Update-Colour) :arrow_forward: [Live Demo](https://jps27cse.github.io/Time-Clock-Update-Colour/)
-
 - [New Year Countdown](https://github.com/jps27CSE/New-Year-Countdown) :arrow_forward: [Live Demo](https://jps27cse.github.io/New-Year-Countdown/)
-
 - [Task Manager](https://github.com/jps27CSE/Task-Manager) :arrow_forward: [Live Demo](https://jps27cse.github.io/Task-Manager/)
 
 ### React Projects
@@ -66,20 +86,10 @@ Social Networks:
 ### MERN Projects
 - [NoteHut](https://github.com/jps27CSE/NoteHut_MERN)
 - [Social App](https://github.com/jps27CSE/Social_App_MERN)
-- [Job Bid Pro](https://github.com/jps27CSE/Job_Bid_Pro_Client):arrow_forward: [Live Demo](https://jobbidpro.web.app/):arrow_forward: [Client](https://github.com/jps27CSE/Job_Bid_Pro_Client):arrow_forward: [Server](https://github.com/jps27CSE/Job_Bid_Pro_Server)
+- [Job Bid Pro](https://github.com/jps27CSE/Job_Bid_Pro_Client) :arrow_forward: [Live Demo](https://jobbidpro.web.app/)
+
 ### FullStack Projects
 - [Ecommerce React Strapi Stripe](https://github.com/jps27CSE/Ecommerce_React_Strapi_Stripe)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jps27cse&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jps27CSE&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jps27cse" alt="jps27cse" /></a> </p>
-
-![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jps27cse&theme=react-dark)
-[![An image of @jps27cse's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jps27cse)](https://holopin.io/@jps27cse)
-
-
-
-
+---
+*Version: 1.0*
