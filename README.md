@@ -12,11 +12,11 @@ I am proficient in JavaScript, React, Next.js, Angular, and a variety of fronten
 
 ## Connect with Me
 <p align="left">
-  <a href="https://github.com/jps27CSE" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40"/></a>
-  <a href="https://dev.to/jps27cse" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Dev" height="40"/></a>
-  <a href="https://www.linkedin.com/in/jps27CSE/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40"/></a>
-  <a href="https://stackoverflow.com/users/13438724/jack-pritom-soren" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Stack Overflow" height="40"/></a>
-  <a href="https://jps27cse.github.io/Portfolio-/?fbclid=IwAR34EqaxmzyzzrbQUr7NlLIft8ibyXi6pE2oZRLBqtnm7sw-Q28oJPW5P20" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="Website" height="40"/></a>
+  <a href="https://github.com/jps27CSE" target="_blank"><img src="https://img.icons8.com/material-outlined/48/ffffff/github.png" alt="GitHub" height="40"/></a>
+  <a href="https://dev.to/jps27cse" target="_blank"><img src="https://img.icons8.com/windows/48/ffffff/dev.png" alt="Dev" height="40"/></a>
+  <a href="https://www.linkedin.com/in/jps27CSE/" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/linkedin.png" alt="LinkedIn" height="40"/></a>
+  <a href="https://stackoverflow.com/users/13438724/jack-pritom-soren" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="Stack Overflow" height="40"/></a>
+  <a href="https://jackpritomsorenportfolio.vercel.app" target="_blank"><img src="https://img.icons8.com/ios-filled/50/ffffff/internet.png" alt="Website" height="40"/></a>
 </p>
 
 ---
@@ -92,4 +92,4 @@ I am proficient in JavaScript, React, Next.js, Angular, and a variety of fronten
 - [Ecommerce React Strapi Stripe](https://github.com/jps27CSE/Ecommerce_React_Strapi_Stripe)
 
 ---
-*Version: 1.0*
+*Version: 1.2*
