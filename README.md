@@ -83,6 +83,9 @@ I am proficient in JavaScript, React, Next.js, Angular, and a variety of fronten
 - [Project Management](https://github.com/jps27CSE/Project-Management_React_Firebase) :arrow_forward: [Live Demo](https://project-management-react-23.netlify.app/)
 - [YouTube Clone](https://github.com/jps27CSE/Youtube_Clone_React) :arrow_forward: [Live Demo](https://youtubeclonejps.netlify.app/)
 
+### Angular JS Projects
+- [RX-Locate](https://github.com/jps27CSE/RxLocate-Full) :arrow_forward: [Live Demo Video](https://drive.google.com/file/d/1GTYBzkJIc6WB1HYUo-h6J2vGbVTcwQF4/view?usp=sharing)
+
 ### MERN Projects
 - [NoteHut](https://github.com/jps27CSE/NoteHut_MERN)
 - [Social App](https://github.com/jps27CSE/Social_App_MERN)
@@ -92,4 +95,4 @@ I am proficient in JavaScript, React, Next.js, Angular, and a variety of fronten
 - [Ecommerce React Strapi Stripe](https://github.com/jps27CSE/Ecommerce_React_Strapi_Stripe)
 
 ---
-*Version: 1.2*
+*Version: 1.3*
