@@ -62,6 +62,10 @@ I am proficient in JavaScript, React, Next.js, Angular, and a variety of fronten
 ![Trophy](https://github-profile-trophy.vercel.app/?username=jps27cse)
 
 ---
+## Daily.Dev Stats
+<a href="https://app.daily.dev/jps27cse"><img src="https://api.daily.dev/devcards/v2/w3ZfHg10d6mj5IGzL2VPi.png?type=wide&r=n38" width="652" alt="Jack Pritom Soren's Dev Card"/></a>
+
+---
 
 ## Badges
 [![An image of @jps27cse's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jps27cse)](https://holopin.io/@jps27cse)
@@ -95,4 +99,4 @@ I am proficient in JavaScript, React, Next.js, Angular, and a variety of fronten
 - [Ecommerce React Strapi Stripe](https://github.com/jps27CSE/Ecommerce_React_Strapi_Stripe)
 
 ---
-*Version: 1.3*
+*Version: 1.4*
