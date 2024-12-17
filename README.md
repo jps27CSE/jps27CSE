@@ -17,7 +17,7 @@ I am proficient in JavaScript, React, Next.js, Angular, and a variety of fronten
   <a href="https://www.linkedin.com/in/jps27CSE/" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/linkedin.png" alt="LinkedIn" height="40"/></a>
   <a href="https://stackoverflow.com/users/13438724/jack-pritom-soren" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="Stack Overflow" height="40"/></a>
   <a href="https://jackpritomsorenportfolio.vercel.app" target="_blank"><img src="https://img.icons8.com/ios-filled/50/ffffff/internet.png" alt="Website" height="40"/></a>
-  <a href="https://www.threads.net/@jps27" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/026/839/942/non_2x/threads-social-media-logo-threads-icon-illustration-free-vector.jpg" alt="Threads" height="40"/></a>
+  <a href="https://www.threads.net/@jps.27" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/026/839/942/non_2x/threads-social-media-logo-threads-icon-illustration-free-vector.jpg" alt="Threads" height="40"/></a>
 </p>
 
 ---
