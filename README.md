@@ -87,6 +87,12 @@ I am proficient in JavaScript, React, Next.js, Angular, and a variety of fronten
 - [Magic Match Game](https://github.com/jps27CSE/Magic-Memory-Game-React) :arrow_forward: [Live Demo](https://magic-match-react-jps.netlify.app/)
 - [Project Management](https://github.com/jps27CSE/Project-Management_React_Firebase) :arrow_forward: [Live Demo](https://project-management-react-23.netlify.app/)
 - [YouTube Clone](https://github.com/jps27CSE/Youtube_Clone_React) :arrow_forward: [Live Demo](https://youtubeclonejps.netlify.app/)
+- [Atmos Weather App](https://github.com/jps27CSE/Atmos_Tanstack_Query_Shadcn_Recharts) :arrow_forward: [Live Demo](https://weather-atmos.netlify.app/)
+- [Pictorica App](https://github.com/jps27CSE/Pictorica-React_Tailwind_ReactQuery_Appwrite) :arrow_forward: [Live Demo](https://pictorica.netlify.app/sign-up)
+
+### Next-JS Projects
+- [LinkUp Video Conference App](https://github.com/jps27CSE/LinkUp_NextJs_Stream) :arrow_forward: [Live Demo](https://link-up-video.vercel.app/)
+- [LoopChat App](https://github.com/jps27CSE/LoopChat_NextJS_Convex_ZegoCloud)
 
 ### Angular JS Projects
 - [RX-Locate](https://github.com/jps27CSE/RxLocate-Full) :arrow_forward: [Live Demo Video](https://drive.google.com/file/d/1GTYBzkJIc6WB1HYUo-h6J2vGbVTcwQF4/view?usp=sharing)
@@ -100,4 +106,4 @@ I am proficient in JavaScript, React, Next.js, Angular, and a variety of fronten
 - [Ecommerce React Strapi Stripe](https://github.com/jps27CSE/Ecommerce_React_Strapi_Stripe)
 
 ---
-*Version: 1.5*
+*Version: 1.6*
