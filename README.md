@@ -31,13 +31,13 @@ I am proficient in JavaScript, React, Next.js, Angular, and a variety of fronten
 
 **Languages**: JavaScript, TypeScript, C, C++, Java
 
-**Frontend**: React, Next.js
+**Frontend**: React, Next.js, Angular.js
 
-**UI**: Tailwind CSS, Bootstrap, MUI
+**UI**: Tailwind CSS, Bootstrap, MUI, ShadCn
 
 **Backend**: Node.js, Express.js
 
-**Database**: MongoDB, Firestore, Redis
+**Database**: MongoDB, Firestore, Redis, Supabase, Neon PostgreSQL
 
 **Package Manager**: npm, yarn
 
@@ -50,7 +50,6 @@ I am proficient in JavaScript, React, Next.js, Angular, and a variety of fronten
 ---
 
 ## Currently Learning
-- AngularJS
 
 ---
 
@@ -106,4 +105,4 @@ I am proficient in JavaScript, React, Next.js, Angular, and a variety of fronten
 - [Ecommerce React Strapi Stripe](https://github.com/jps27CSE/Ecommerce_React_Strapi_Stripe)
 
 ---
-*Version: 1.6*
+*Version: 1.7*
