@@ -92,6 +92,7 @@ I am proficient in JavaScript, React, Next.js, Angular, and a variety of fronten
 ### Next-JS Projects
 - [LinkUp Video Conference App](https://github.com/jps27CSE/LinkUp_NextJs_Stream) :arrow_forward: [Live Demo](https://link-up-video.vercel.app/)
 - [LoopChat App](https://github.com/jps27CSE/LoopChat_NextJS_Convex_ZegoCloud)
+- [Glorify Worship Music App](https://github.com/jps27CSE/Glorify_NextJS_Supabase_PostgreSQL_Tailwind) :arrow_forward: [Live Demo](https://glorifyworship.vercel.app)
 
 ### Angular JS Projects
 - [RX-Locate](https://github.com/jps27CSE/RxLocate-Full) :arrow_forward: [Live Demo Video](https://drive.google.com/file/d/1GTYBzkJIc6WB1HYUo-h6J2vGbVTcwQF4/view?usp=sharing)
@@ -104,5 +105,7 @@ I am proficient in JavaScript, React, Next.js, Angular, and a variety of fronten
 ### FullStack Projects
 - [Ecommerce React Strapi Stripe](https://github.com/jps27CSE/Ecommerce_React_Strapi_Stripe)
 
+### NPM Packages
+- [devstacker- FullStack JS Project Generator](https://www.npmjs.com/package/devstacker)
 ---
-*Version: 1.7*
+*Version: 1.8*
