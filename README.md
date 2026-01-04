@@ -1,12 +1,16 @@
 # Hi! I am Jack :sunglasses:
-**Software Engineer (SWE) specializing in Frontend development**
+**Software Engineer (SWE)**
 
 ![Jack's Profile Picture](https://user-images.githubusercontent.com/58485174/190687463-936bd7db-6263-445d-bb01-0a388b20fb82.jpg)
 
 ---
 
-## About Me
-I am proficient in JavaScript, React, Next.js, Angular, and a variety of frontend tools. Also skilled in the MERN Stack. Committed to crafting clean, efficient code and driving innovation in every project. Passionate about collaborating with dynamic teams to create impactful solutions and continuously advancing in the field of frontend development.
+## 🚀 About Me
+I am a Software Engineer specializing in **Frontend development** with hands-on experience across **Full Stack technologies**. I primarily work with **JavaScript, React, Next.js, and Angular** to build clean, responsive, and scalable user interfaces.
+
+Alongside frontend development, I have practical experience in backend technologies such as **Node.js, Express.js, Spring Boot, Supabase, and Prisma**, and I am comfortable working with both **relational and NoSQL databases**. I am passionate about writing clean, maintainable code, learning modern technologies, and collaborating with teams to build reliable, production-ready applications.
+
+I actively improve my problem-solving skills through platforms like **LeetCode** and **Codewars** and enjoy turning ideas into real-world solutions.
 
 ---
 
@@ -23,29 +27,44 @@ I am proficient in JavaScript, React, Next.js, Angular, and a variety of fronten
 ---
 
 ## Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,tailwind,express,mongodb,firebase,git,c,cpp,java,figma,nodejs,typescript,postman,prisma,redis,nextjs,vercel,netlify,arduino,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,angular,tailwind,bootstrap,nodejs,express,mongodb,postgres,prisma,supabase,redis,spring,git,github,docker,linux,figma,postman,vercel,netlify)](https://skillicons.dev)
 
 ---
 
-## Skills
+## 🛠️ Skills
 
-**Languages**: JavaScript, TypeScript, C, C++, Java
+### Languages
+JavaScript, TypeScript, C, C++, Java
 
-**Frontend**: React, Next.js, Angular.js
+### Frontend
+React, Next.js, Angular, HTML, CSS
 
-**UI**: Tailwind CSS, Bootstrap, MUI, ShadCn
+### UI & Styling
+Tailwind CSS, Bootstrap, MUI, ShadCN
 
-**Backend**: Node.js, Express.js
+### Backend
+Node.js, Express.js, Spring Boot, Supabase, Strapi
 
-**Database**: MongoDB, Firestore, Redis, Supabase, Neon PostgreSQL
+### Databases
+MongoDB, MySQL, PostgreSQL (Neon), Firestore, Redis
 
-**Package Manager**: npm, yarn
+### ORM / DB Tools
+Prisma, Mongoose
 
-**DBMS/ORM**: Mongoose, Prisma
+### Architecture
+Monolithic Architecture, Microservice Architecture
 
-**Tools and Software**: Postman, Chrome Dev Tool, MS Excel, MS Word, MS PowerPoint
+### Tools & Software
+Postman, Chrome DevTools, Docker, MS Excel, MS Word, MS PowerPoint
 
-**Version Control, DevOps & OS**: Git & GitHub, Windows, Linux
+### Version Control, DevOps & OS
+Git, GitHub, Windows, Linux
+
+---
+
+## 📊 Problem Solving
+- **LeetCode**: jps27CSE  
+- **Codewars**: jps27CSE
 
 ---
 
@@ -108,4 +127,4 @@ I am proficient in JavaScript, React, Next.js, Angular, and a variety of fronten
 ### NPM Packages
 - [devstacker- FullStack JS Project Generator](https://www.npmjs.com/package/devstacker)
 ---
-*Version: 1.8*
+*Version: 2.0*
