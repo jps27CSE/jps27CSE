@@ -123,8 +123,9 @@ Git, GitHub, Windows, Linux
 
 ### FullStack Projects
 - [Ecommerce React Strapi Stripe](https://github.com/jps27CSE/Ecommerce_React_Strapi_Stripe)
+- [Rx-Mart - Online Pharmacy Management System](https://github.com/jps27CSE/Rx-Mart_Angular_Express-JS_NeonDB) :arrow_forward: [Live Demo](https://rx-mart.vercel.app)
 
 ### NPM Packages
 - [devstacker- FullStack JS Project Generator](https://www.npmjs.com/package/devstacker)
 ---
-*Version: 2.0*
+*Version: 2.1*
