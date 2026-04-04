@@ -74,7 +74,7 @@ Git, GitHub, Windows, Linux
 
 ## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jps27CSE&show_icons=true&theme=react)
-![GitHub streak stats](https://nirzak-streak-stats.vercel.app/?user=jps27CSE&theme=react&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jps27cse&theme=transparent&hide_border=true&card_width=496)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jps27CSE&theme=react)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jps27cse&theme=react-dark)
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jps27cse&theme=dracula)
