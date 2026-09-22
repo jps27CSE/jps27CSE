@@ -124,6 +124,7 @@ Git, GitHub, Windows, Linux
 ### FullStack Projects
 - [Ecommerce React Strapi Stripe](https://github.com/jps27CSE/Ecommerce_React_Strapi_Stripe)
 - [Rx-Mart - Online Pharmacy Management System](https://github.com/jps27CSE/Rx-Mart_Angular_Express-JS_NeonDB) :arrow_forward: [Live Demo](https://rx-mart.vercel.app)
+- [LynxDEV - A Developer Platform](https://github.com/jps27CSE/LynxDev-Hub_DEV_Community) :arrow_forward: [Live Demo](https://lynxdev.vercel.app)
 
 ### NPM Packages
 - [devstacker- FullStack JS Project Generator](https://www.npmjs.com/package/devstacker)
@@ -131,4 +132,4 @@ Git, GitHub, Windows, Linux
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jps27cse&label=Profile%20views&color=0e75b6&style=flat" alt="jps27cse" /> </p>
 
-*Version: 2.1*
+*Version: 2.2*
